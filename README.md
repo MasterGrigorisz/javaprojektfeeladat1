@@ -1,4 +1,4 @@
-A feladatleírás a félévi projektre:
+A feladatleírás a félévi projektre: (2023)
 A feladat a klasszikus torpedó játék implementálása, amit hálózaton keresztül játszhat két fél egymás ellen. A megvalósításhoz szerver-kliens architektúrát kell használni, a szerver implementálja a játék logikáját és kezeli a kliensek csatlakozását, a játékosok regisztráció és bejelentkezés után játszhatnak egy másik elérhető játékos ellen. 
 
 A feladatnál elvárás a forduló és minimálisan működő kód. Ezek hiányában a munka értékelhetetlen (0 pont). 
